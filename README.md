@@ -1,7 +1,4 @@
 # Disaster-Management-Analysis-2023
-![Dashboard](Disaster managerment analysis)
-
-
 This analysis describes the details of the natural disasters affecting a group of countries; the United States of America, Brazil, India, China, Indonesia and Japan. With over 49million casualties resulting from disasters like earthquake topping the chart and flooding following closely as recorded from the analysis carrried out. 
 A total of six countries were analyzed for the effect and extent at which the natural disasters affect them. they are China, Brazil, USA, Indonesia, India and Japan. it was observed however, that the earhquake occured the most with about 20.4% occurence rate closely followed by flood with a 20.2%, Tornado with a 20.1%, wildfire 19.8% and a Hurricane with 19.5% occurence. The fatalities recorded were over 49million cases with the fatality due to Earthquake topping the list at 1095826 cases and closely followed by the cases of flood; 10086080 cases, Tornado recorded 10076567, hurricance; 9883502 and wildfire the least with 9707314 cases in total. 
 
